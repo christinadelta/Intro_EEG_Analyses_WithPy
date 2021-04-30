@@ -8,4 +8,4 @@ Numpy, Scipy and Matplotlib
 
 I do not have permission to share the dataset that I am using here. This series on (very) Introductory Notebooks for Analyses of EEG data is intended to the students that I supervise. 
 
-So, if you want to work on these materials, send me an email and I will share the data with you directly (if I can). 
+However, in the near future I will post more notebooks with **open data** and EEG analyses notebooks.
